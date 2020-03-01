@@ -1,10 +1,20 @@
 # copyright
 ===========
 
+0
+
+-------    x(4)
+
+9 6 F 6    零 zero
+
+-------    hex
+
 9 E 7 F    鹿 deer; surname
 7 2 7 9    特 special, unique, distinguished
 4 E 3 9    丹 vermilion; red, pellet, powder
 6 E 2 F    港 port, harbor; small stream; bay
+
+-------    unicode
 
 6 8 3 8    核 seed, kernel, core, nut; atom
 8 8 C 2    裂 split, crack, break open; rend
@@ -20,3 +30,8 @@
 5 E 6 3    幣 currency, coins, legal tender
 5 7 F A    基 foundation, base
 6 E 9 6    準 rule, guideline, standard
+
+5 7 0 B    國 nation, country, nation-state
+5 B B 6    家 house, home, residence; family
+5 3 C D    反 reverse, opposite, contrary, anti
+5 8 3 1    報 report, tell, announce
